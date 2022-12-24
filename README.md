@@ -28,5 +28,5 @@
 - 
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram](www.vk.com)
+- [Telegram](www.vk.com, 'Hello there')
 - [Kaggle]()

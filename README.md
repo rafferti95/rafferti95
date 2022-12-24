@@ -33,4 +33,4 @@
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/rafferti_95)
-- [Google](https://rafferti96@gmail.com)
+- 📧 rafferti95@gmail.com

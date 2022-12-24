@@ -28,37 +28,5 @@
 - 
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram]()
-- [Kaggle]()
-
----
-
-### Hello! 👋
-
-### ✨ About me in 30 seconds ✨ 
-* 🎓 Education:
- - 
- - 
- - 
-* 
-* 
-* 
-* 
-
-### 💡 Core competencies 💡
-- Tools: 
-  - Skills:
-    * 
-    * 
-    * 
-
-
-### ⚡️ Currently ⚡️
-- 
-- 
-- 
-- 
-
-### 🙌🏻 Contact me
-- [Telegram]()
+- [Telegram](www.vk.com)
 - [Kaggle]()
